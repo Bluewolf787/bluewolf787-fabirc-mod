@@ -1,6 +1,6 @@
-package net.fabricmc.example.mixin;
+package de.bluewolf.bluewolf787.mixin;
 
-import net.fabricmc.example.ExampleMod;
+import de.bluewolf.bluewolf787.ExampleMod;
 import net.minecraft.client.gui.screen.TitleScreen;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
